@@ -1,0 +1,1 @@
+void stack_growth_func(struct thread*, const void*,bool);
